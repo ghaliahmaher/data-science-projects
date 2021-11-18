@@ -3,7 +3,7 @@
 The goal is to know whether the public transportation usage differs before and after the total lockdown that happened in New York City from March 2020 until April 2020.
 
 
-![](https://github.com/ghaliahmaher/data-science-projects/blob/master/figure%20of%20the%20EDA%20on%20MTA.png)
+![](https://github.com/ghaliahmaher/data-science-projects/blob/master/MTA%20EDA.png)
 
 
 I used a plot chart to display the results, the x-axis is the months and the y-axis is the number of people in 100 million.
